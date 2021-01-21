@@ -1,0 +1,46 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../twitter-clone"
+		},
+		{
+			"path": "../../../../../../../programming-questions"
+		},
+		{
+			"path": "../../../../../../response_page1"
+		},
+		{
+			"path": "../../../.."
+		},
+		{
+			"path": "../../../../../../../vue-projects"
+		},
+		{
+			"path": "../../../../../../../laravel-tutorial/number1"
+		},
+		{
+			"path": "../../../../../../responsive-design1"
+		},
+		{
+			"path": "../../../../../../../laravel-tutorial/number2/laravel-work"
+		},
+		{
+			"path": "../../../../../../../laravel-tutorial/number2/laravel-tut"
+		},
+		{
+			"path": "../../../../../../../../ABACProjectDomain1"
+		},
+		{
+			"path": "../../../../../../../../ABACProjectDomain2"
+		},
+		{
+			"path": "../../../../../../../reactjs-projects/nextjs-blog"
+		},
+		{
+			"path": "../../../../../../../backend/django/django-backend"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "responsive-design1"
+	}
+}
